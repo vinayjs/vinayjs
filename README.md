@@ -4,4 +4,4 @@
 ![React](https://img.shields.io/badge/-React-F0F8FF?style=flat-square&logo=react) 
 ![Vuejs](https://img.shields.io/badge/-Vuejs-F0F8FF?style=flat&logo=Vue.js) 
 
-## <font size='2'>_Portfolio - https://vinayjs.github.io/_</font>
+### <font size='1'>_Portfolio - https://vinayjs.github.io/_</font>
